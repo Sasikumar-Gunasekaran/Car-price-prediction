@@ -1,1 +1,1 @@
-print("python"), 123
+print
